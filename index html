@@ -41,7 +41,7 @@
 
 <script>
     // GANTI DENGAN URL WEB APP GAS KAMU
-    const API_URL = "URL_WEB_APP_APPS_SCRIPT_KAMU";
+    const API_URL = "https://script.google.com/macros/s/AKfycbw_PlcHtxWsoYPb8LDJFGnPEX5wwuFkWQbDgnIEXTfV18JzpAXdtq7JgB5JEXJVLlrr/exec";
 
     async function loadUnit() {
         try {
